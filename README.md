@@ -10,4 +10,4 @@ This project uses real data coming from a survey among data professionals. First
 
 ## Screenshot
 
-![2022-10-09_Full_Power_BI_Guided_Project1024_1](https://user-images.githubusercontent.com/53877625/201211072-46c88a00-0dae-4af8-93b0-c1b7dd777fe2.jpg)
+![Data_Professional_Survey_Breakdown](https://user-images.githubusercontent.com/53877625/205501168-c3ce0e4f-8129-475a-9af3-6ae3812fb8dd.jpg)
